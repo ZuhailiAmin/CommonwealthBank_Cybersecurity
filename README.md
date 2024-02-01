@@ -17,6 +17,9 @@ I dove into the world of data analysis, especially in the context of cyber data.
 **Background experience:**
 As a cyber security generalist at Commonwealth Bank, I utilized Splunk to visually represent financial fraud data. The dataset, spanning customer payments, steps, customer IDs, age, gender, and more, provided hands-on experience in detecting and preventing fraud.
 
+**Here is an overview of the dashboard that I created:**
+![image](https://github.com/ZuhailiAmin/CommonwealthBank_Cybersecurity/assets/114351563/8f71b33e-1d47-4a36-98c0-9b8a71830ac2)
+
 ### Task 2: Incident Response
 
 **What I learned:**
